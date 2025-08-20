@@ -1,0 +1,39 @@
+p {
+  color: yellow;
+}
+
+.blue {
+  color: blue;
+}
+
+#red {
+  color: red;
+}
+
+[data-type="box"] {
+  color: brown;
+}
+
+div p.blueviolet {
+  color: blueviolet;
+}
+
+div>h3 {
+  background-color: aqua;
+}
+
+ul li.one {
+  color: darkgoldenrod;
+}
+
+h2.first {
+  background-color: bisque;
+}
+
+a[title] {
+  color: chartreuse;
+}
+
+#qqwwee.apple {
+  color: #7d9bad;
+}
